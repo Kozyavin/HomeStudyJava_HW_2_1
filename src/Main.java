@@ -11,3 +11,4 @@ public class Main {
         System.out.println("Стоимость купленного билетa: " + priceTicket + " рублей" + "\n" + "Бонусных миль начислено: " + bonusMiles + " миль(я,и)");
     }
 }
+
